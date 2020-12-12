@@ -46,6 +46,7 @@ set(
     gfx/displays/GDisplayMaschineMK1.cpp
     gfx/displays/GDisplayMaschineMK2.cpp
     gfx/displays/GDisplayPush2.cpp
+    gfx/displays/LedMatrixMaschineJam.cpp
 )
 
 set(
